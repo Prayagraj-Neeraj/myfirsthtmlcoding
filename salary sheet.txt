@@ -1,0 +1,9 @@
+<! doctype html>
+<html>
+<head> <title > Table </title> </head>
+<body>
+<h2> <c><font colo="red"> Salary Sheet </c></h2><hr size="2px", color="black", align="left">
+
+</body.
+
+</html>

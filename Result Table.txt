@@ -1,0 +1,10 @@
+<! doctype html>
+<html>
+<head> <title> Table </title> </head>
+
+<body>
+<table>
+<tr> <th> <c><b>My Class 10th Result </b></c></th></tr>
+</table>
+</body>
+</html>
